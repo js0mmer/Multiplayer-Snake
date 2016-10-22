@@ -31,14 +31,6 @@ $RECYCLE.BIN/
 # Thumbnails
 ._*
 
-# IntelliJ Stuff
-.idea
-.metadata
-bin
-.classpath
-.project
-*.iml
-
 # Files that might appear in the root of a volume
 .DocumentRevisions-V100
 .fseventsd
